@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex 历史与空间清理"
+  short_description: "扫描历史聊天和目录占用，核对清理范围，支持 Windows 与 macOS"
+  default_prompt: "使用 $codex-storage-cleanup 只读扫描 Codex 目录，列出最大的 20 个聊天和可清理候选，先不要删除。"
